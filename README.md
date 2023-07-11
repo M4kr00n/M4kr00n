@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p> 
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<br>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p> 
 <hr>
  <h1 align="center">Hi there, I'm <a href="https://t.me/realnex0nix"  target="_blank">realnex0nix !</a> 👋</h1> 
   
